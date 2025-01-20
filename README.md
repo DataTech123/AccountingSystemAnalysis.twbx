@@ -5,7 +5,7 @@ The purpose of this Tableau project is to fully manage accounting systems in var
 Data Explanations:
 
 In this project, I have defined to design only some elements of an accounting system based on  my previous experience with accounting processes in SAP and Oracle suites.
-For example, by exploring the "accountingsystemanalysis.twbx" DEMO, it consists of five financial dashboards that can resolve  common accounting operation problems. In a real-time working environment, I would directly connect to a system for extraction data source  from the target system or use tool to extract and load from data warehouse for the departmental multi-systems to analye the fact table .
+For example, by exploring the "accountingsystemanalysis.twbx" DEMO, it consists of five financial dashboards that can resolve  common accounting operation problems. In a real-time working environment, I would directly connect to a system for extraction data source  from the target system or use tool to extract and load from data warehouse for the departmental multi-systems to analyze the fact table .
 
 
 Thank you for reviewing my financial visualization design and the Cost Journal & Account Reconciliation in an Excel file.I welcome any questions from you for further development.
