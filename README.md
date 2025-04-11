@@ -1,4 +1,4 @@
-The project uses Salesforce Tableau and the Excel file named "Cost Journal & Account Reconciliation" demonstrates my expertise in accounting concepts and processes, as well as my practical experience with accounting systems.The project reflects my familiarity with accounting system information delivery,enabling me to design financial dashboards for analysis by using Tableau.
+This project uses Salesforce Tableau and an Excel file named "Cost Journal & Account Reconciliation" demonstrates my expertise in accounting concepts and processes, as well as my practical experience with accounting systems.The project reflects my familiarity with accounting system information delivery,enabling me to design financial dashboards for analysis by using Tableau.
 
 The purpose of this Tableau project is to fully manage accounting systems in various types of complex issues and problems in large-scale financial operations. It showcases a combination of my knowledge and experience in operational database design, and Tableau accounting transaction problem design based on accounting principles and processes.
 
