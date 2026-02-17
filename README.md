@@ -8,7 +8,7 @@ In this project, I have defined to design only some elements of an accounting sy
 For example, by exploring the "accountingsystemanalysis.twbx" DEMO, it consists of five financial dashboards that can resolve  common accounting operation problems. In a real-world working scenario, I would directly connect to a source system's raw data  for extraction, transform, and load( ETL) to the target systems  for information analysis and report.
 
 
-Thank you for reviewing my financial visualization design and the Cost Journal & Account Reconciliation in an Excel file.I welcome any questions from you.
+Thank you for your questions and feedback.
 
  
 
