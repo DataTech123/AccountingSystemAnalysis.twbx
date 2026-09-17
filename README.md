@@ -4,8 +4,8 @@ The purpose of this Tableau project is to fully manage accounting systems in var
 
 Data Explanation:
 
-In this project, I have defined to design only some elements of an accounting system depending on  my previous experience with accounting processes in SAP and Oracle suites.
-For example, by exploring the "accountingsystemanalysis.twbx" DEMO, it consists of five financial dashboards that can resolve  common accounting operation problems. In a real-world working scenario, I would directly connect to a source system's raw data  for extraction, transform, and load( ETL) to the target systems  for information analysis and report.
+In this project, I have chosen to design only some elements of an accounting system depending on  my previous experience with accounting processes in SAP and Oracle suites.
+For example, by exploring the "accountingsystemanalysis.twbx" DEMO consists of five financial dashboards that can resolve  common accounting operation problems. In a real-world working scenario, I would directly connect to a source system's raw data  for extraction, transformation, and loading ETL/ELT to the target systems  for information analysis and report.
 
 
 Thank you for your questions and feedback.
